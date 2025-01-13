@@ -17,7 +17,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/tsg-assessment.git
+git clone https://github.com/rusyaidi61/tsg-assessment.git
 cd tsg-assessment
 Install Dependencies:
 Run the following command to install all required Laravel dependencies:
