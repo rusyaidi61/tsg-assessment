@@ -5,12 +5,12 @@ Welcome to my submission for the TSG Skill Assessment for the IT Application Dev
 This repository contains my solution to the assessment, including:
 
 The Laravel project to display car models, their manufacturers, and the date of creation.
-The database schema and data exported as tsg_assessment.sql.
+The database schema and data exported as tsg.sql.
 For more details, I have also included the Skill Assessment L1_AhmadRusyaidi.pdf, which provides an answer schema and further explanation of the steps I’ve taken to complete this assessment.
 
 What's Included
 Laravel Project: The complete Laravel framework and implementation files are included in this repository.
-Database File: The database/tsg_assessment.sql file is provided for database setup.
+Database File: The database/tsg.sql file is provided for database setup.
 
 How to Set Up
 Clone the Repository:
@@ -42,7 +42,7 @@ DB_DATABASE=tsg_assessment
 DB_USERNAME=root
 DB_PASSWORD= 
 Set Up the Database:
-Import the database/tsg_assessment.sql file into your MySQL database.
+Import the database/tsg.sql file into your MySQL database.
 
 Generate Application Key:
 
