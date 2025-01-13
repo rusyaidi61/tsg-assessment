@@ -40,7 +40,7 @@ DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=tsg_assessment
 DB_USERNAME=root
-DB_PASSWORD=yourpassword
+DB_PASSWORD= 
 Set Up the Database:
 Import the database/tsg_assessment.sql file into your MySQL database.
 
